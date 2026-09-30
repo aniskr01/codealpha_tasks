@@ -9,12 +9,12 @@ Exploring a dataset to identify patterns, trends, anomalies, data-quality issues
 Transforming data into meaningful charts and visualizations to communicate insights and support data-driven decision-making.
 
 ## Technologies
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-SciPy
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy
 
 ## Internship
 CodeAlpha – Data Analytics Internship
