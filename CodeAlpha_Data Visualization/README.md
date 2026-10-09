@@ -1,4 +1,4 @@
-# CodeAlpha Task 3 – Data Visualization
+# CodeAlpha Task 2 – Data Visualization
 
 ## Overview
 This project is completed as part of the **CodeAlpha Data Analytics Internship**.
