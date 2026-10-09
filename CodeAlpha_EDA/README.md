@@ -1,4 +1,4 @@
-# CodeAlpha Task 2 - EDA
+# CodeAlpha Task 1 - EDA
 
 Files:
 - `titanic_eda_dataset.csv` - dataset
